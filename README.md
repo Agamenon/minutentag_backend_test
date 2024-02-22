@@ -16,6 +16,6 @@ Using that data print two columns of data. The left column should contain the na
 and the right column should contain the names that responded 'yes'*
 
 ## To run Challenger
-`php Challenger2.php` on so on.
+`php Challenger2.php` on so on, except `Challenger1.php`.
 
 
