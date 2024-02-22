@@ -71,4 +71,5 @@ function($p, $o, $ext) {
 
     // return final list
     return $items;
+    }
 ?>
