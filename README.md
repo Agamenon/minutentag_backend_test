@@ -1,5 +1,5 @@
 
-## About Prex Backend Test
+## About Minutentag Backend Test
 This project was create only for interview proposal.
 
 ## User Case
